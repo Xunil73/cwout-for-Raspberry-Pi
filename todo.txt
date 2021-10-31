@@ -1,5 +1,0 @@
-next steps to improve the code:
-
-at first clear the mishmash of german and english variable names and comments
-and name it in pure english.
-Second, combining code parts into smaller units, mainly in cwout.cpp 
