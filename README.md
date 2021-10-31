@@ -27,5 +27,5 @@ typing ./cwout --help gives you a short overview on using the opions.
 
 You can modify, improve, change the software as you want.
 
-i do not warrant any damage to software or hardware including your data of your raspberry pi 
+I do not warrant any damage to software or hardware including your data of your raspberry pi 
 by using the software. I make the software available here for everyone in the hope that it is useful.
